@@ -1,3 +1,4 @@
+***MARKED DOWN TASKS ARE COMPLETED BY AT LEAST ONE MEMBER OF THE TEAM***
 
 List of activities to be done prior to code testing:
 
