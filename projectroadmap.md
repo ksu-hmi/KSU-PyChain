@@ -17,21 +17,21 @@
 - [X] Discuss and examine example code. [Both]
 
 ## Week 2 -
-- [x] Review information on blockchain. [Both]
+- [X] Review information on blockchain. [Both]
 - [X] Read the implementation guide for https://github.com/satwikkansal/python_blockchain_app to decide if this is a reliable method. [Raul]
-- [x] Read the "Blockchain Python tutorial" for https://github.com/adilmoujahid/blockchain-python-tutorial at 
+- [X] Read the "Blockchain Python tutorial" for https://github.com/adilmoujahid/blockchain-python-tutorial at 
 http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/ to decide if this would be a better approach. [Both]
 - [X] Test the code at https://github.com/dvf/blockchain and review it to try to understand it. [Both]
 - [X] Discuss with the team the outcomes of the research. [Both]
 - [ ] Update the readme file. [Raul - AY]
 - [ ] Clone the support repositories for testing. [Both]
-- [x] Upload first code piece into the KSU-PyChain repo. [Raul]
-- [x] Ensure all team members have cloned the KSU-PyChain. [Both]
+- [X] Upload first code piece into the KSU-PyChain repo. [Raul]
+- [X] Ensure all team members have cloned the KSU-PyChain. [Both]
 - [X] Add the projectroadmap.md file. [Raul]
 
 ## Week 3 -
-- [ ] Create a PPT (1 slide) to market the project. [AY]
-- [ ] Upload the PPT file to the repository. [Raul]
+- [X] Create a PPT (1 slide) to market the project. [AY]
+- [X] Upload the PPT file to the repository. [Raul]
 - [ ] Update the readme.md file. [Both]
 - [ ] Generate documentation for the project. [Raul]
 - [ ] Test the front end (Miner). [Raul]
